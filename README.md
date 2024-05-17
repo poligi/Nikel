@@ -2,6 +2,6 @@
 
 Projeto de desenvolvimento de uma aplicação semelhante a uma carteira, só que online. 
 
-<img src="public/assets/images/nikel-logo.png" alt="logo nikel" class="img-fluid">
+Feito com a ajuda dos professores da Growdev no curso Codaí :) 
 
-<img src="public/assets/images/nikel-logo.png" alt="logo nikel" class="img-fluid">
+<img src=".//public/assets/images/CertificadoConclusãoCodai.pdf" alt="CertificadoCodai" class="img-fluid">
